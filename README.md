@@ -21,23 +21,17 @@ The AI Nutrition App is designed to offer a seamless user experience for obtaini
 
 ## Installation
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/RajeshAndra/AI-Nutrition-App.git
-   cd AI-Nutrition-App
-   ```
-
-2. **Rename the `.env_sample` file to `.env` and replace `YOUR_API_KEY` with your Gemini API Key:**
+1. **Rename the `.env_sample` file to `.env` and replace `YOUR_API_KEY` with your Gemini API Key:**
     ```python
-    GEMINI_API_KEY = A_1hsi***iKs-19w
+    GEMINI_API_KEY = AIzaSyDosA1HuIKOimiYpSrW3Xa5jZQqWFU_Qmw
     ```
 
-3. **Install Dependencies**:
+2. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Run the Application**:
+3. **Run the Application**:
    ```bash
    streamlit run app.py
    ```
@@ -61,7 +55,9 @@ The AI Nutrition App is designed to offer a seamless user experience for obtaini
 Here are few example of the AI Nutrition App in action:
 
 ### Sample 1
-![Sample 1](Images/img1.png)
+![Sample 1](images/image1.jpg)
+![Sample 1](images/image2.jpg)
 
 ### Sample 2
-![Sample 2](Images/img2.png)
+![Sample 2](images/image3.jpg)
+![Sample 2](images/image4.jpg)
